@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/dev055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dev055" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sidev55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sidev55" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dev05-hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev05-hub" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
